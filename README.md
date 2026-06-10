@@ -6,8 +6,8 @@
 
 🌱 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
 
-🌱My Personal motive is to give my full potential to build Al-based solutions that solve a high-impact problem for people around the globe and simplify everyday living
+🌱 My Personal motive is to give my full potential to build Al-based solutions that solve a high-impact problem for people around the globe and simplify everyday living
 
-⚡ Skills: Machine Learning | Deep Learning  Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Natural Language Processing | Big Data .
+⚡Skills: Machine Learning | Deep Learning  Data Structure | Algorithms | Probability and Random Variables | Applied Statistics | Natural Language Processing | Big Data .
 
-📫 How to reach me: shreyanshpathak03@gmail.com
+📫 Reach me at: shreyanshpathak03@gmail.com
