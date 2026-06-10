@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, Shreyansh Pathak
 
-<!--
-**Shreyanshpathak01/Shreyanshpathak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About**
 
-Here are some ideas to get you started:
+🔭 I have currently pursuing M.C.A from Integral University, Lucknow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
+
+🌱My Personal motive is to give my full potential to build Al-based solutions that solve a high-impact problem for people around the globe and simplify everyday living
+
+⚡ Skills: Machine Learning | Deep Learning  Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Natural Language Processing | Big Data .
+
+📫 How to reach me: shreyanshpathak03@gmail.com
